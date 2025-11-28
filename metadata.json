@@ -3,6 +3,7 @@
   "description": "A serverless, multi-user video conferencing application. Connect with real people using P2P WebRTC without logging in.",
   "requestFramePermissions": [
     "camera",
-    "microphone"
+    "microphone",
+    "display-capture"
   ]
 }

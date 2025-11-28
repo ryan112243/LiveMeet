@@ -11,7 +11,8 @@
   "dependencies": {
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "trystero": "^0.22.0"
+    "trystero": "^0.22.0",
+    "emoji-picker-react": "4.5.16"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
